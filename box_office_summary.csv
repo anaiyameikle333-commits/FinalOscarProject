@@ -1,4 +1,4 @@
-Movie,URL,Rank
+Movie,URL,Max Week
 Bugsy,https://www.the-numbers.com/movie/Bugsy#tab=box-office,11
 Cape-Fear,https://www.the-numbers.com/movie/Cape-Fear#tab=box-office,6
 The-Silence-of-the-Lambs,https://www.the-numbers.com/movie/Silence-of-the-Lambs-The#tab=box-office,19
@@ -187,3 +187,4 @@ West-Side-Story,https://www.the-numbers.com/movie/West-Side-Story#tab=box-office
 Dune,https://www.the-numbers.com/movie/Dune#tab=box-office,6
 Nightmare-Alley,https://www.the-numbers.com/movie/Nightmare-Alley#tab=box-office,15
 The-Worst-Person-in-the-World,https://www.the-numbers.com/movie/Verdens-verste-menneske-(2021-Norway)#tab=box-office,9
+
